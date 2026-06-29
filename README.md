@@ -1,1 +1,1 @@
-# Proyecto-An-lisis-num-rico-2
+# Proyecto Analisis Numerico: Integración multidimensional MonteCarlo
